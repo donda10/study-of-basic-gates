@@ -1,5 +1,10 @@
 ### study-of-basic-gates
 
+```
+Developed by : Simon Malachi S
+Register Number : 212224040318
+```
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -65,10 +70,7 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-```
-Developed by : Shree Chandru R
-Register Number : 212224230264
-```
+
 ```
  module log_gate(a,b,c1,c2,c3,c4,c5,c6,c7);
  input a,b;
